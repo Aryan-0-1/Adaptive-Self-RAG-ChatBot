@@ -1,0 +1,20 @@
+# Secrets — never commit these
+.env
+.streamlit/secrets.toml
+
+# Local chat/thread persistence
+*.sqlite3
+self_rag_chat_history.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor junk
+.DS_Store
+.idea/
+.vscode/
