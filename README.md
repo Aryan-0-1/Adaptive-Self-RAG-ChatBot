@@ -1,5 +1,4 @@
-# Self-RAG Assistant
-
+# RAGnarok | Adaptive Self-RAG Chatbot
 A LangGraph Self-RAG chatbot with a Streamlit UI: ask questions over PDFs or
 YouTube transcripts, get answers that are retrieved, relevance-filtered,
 grounding-checked (`IsSUP`), revised if needed, usefulness-checked (`IsUSE`),
@@ -185,3 +184,19 @@ considering this done, run through the full loop yourself:
    still listed (proves SQLite persistence, not just session state).
 5. Follow `DEPLOYMENT.md` end-to-end on a throwaway GitHub repo + Streamlit
    Cloud app to confirm the secrets flow actually works outside your machine.
+
+## Author
+
+**Aryan Choudhary**
+
+GitHub: [@Aryan-0-1](https://github.com/Aryan-0-1)
+
+Repository: [RAGnarok](https://github.com/Aryan-0-1/RAGnarok-Adaptive-Self-RAG-ChatBot)
+
+---
+
+## ⭐ If You Found This Project Useful
+
+Consider giving the repository a ⭐ on GitHub.
+
+Contributions, suggestions, and improvements are welcome.
